@@ -32,3 +32,4 @@
     * Negative tests: run ```noncontiguous(R), contiguousgrid(R).```
 * ## Task 3
     *  run ```test(N, Grid, Geom), solve(Grid, Geom).``` and press ';' to move to the next test. 
+![jigsaw](https://github.com/yzhe8769/comp3109_assignment4_jigsaw/blob/master/jigsaw_puzzle.jpg)
