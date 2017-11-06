@@ -25,6 +25,10 @@
    * The Grid given is a 9 by 9 grid
    * The puzzle is solvable
 # How to Test
+* ## Load the file
+    * run ```[jigsaw].``` to load the prolog program
+* ## Setup
+    * run ```setup().``` to set the flag to expand all answers
 * ## Task 1
     *  run ```badgrid(G), writeln(G),completegrid(G).```
 * ## Task 2
