@@ -1,10 +1,11 @@
-# COMP3109 assignment 4 by Yixing Zheng (yzhe8769)
+# jigsaw sudoku solver by Yixing Zheng
+# 2017/11
 
 # modules used
 * lists -> provides predicates to work with list (member, append, nth0 etc)
 * apply -> provides meta-predicates that apply a predicate on all members of a list (maplist)
 * clpfd -> provides Constraint Logic Programming over Finite Domains (invs)
-# predicates
+# predicates and functionalities
 * setup / 0 : set up the environment by setting the prolog flag to display the whole answer
 * legalcell / 1: predicate that checks whether a cell is legal by verifing that the range is between 1 and 9
 * myflatten/2 : predicate that returns
